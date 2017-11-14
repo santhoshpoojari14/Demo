@@ -15,7 +15,7 @@ public class Person implements Serializable{
 	public String getName() {
 		return name;
 	}
-
+//test
 	public void setName(String name) {
 		this.name = name;
 	}
